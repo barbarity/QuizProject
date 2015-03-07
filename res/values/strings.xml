@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QuizProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="play_button">play button</string>
+    <string name="scores">Scores</string>
+    <string name="settings">Settings</string>
+    <string name="endGame">End of The Game</string>
+    <string name="reset">Reset</string>
+    <string name="addFriend">Add Friend</string>
+    <string name="help">Help number</string>
+    <string name="credits">About</string>
+    <string name="authors">Authors:</string>
+    <string name="name_joan">Joan Pérez Guerrero</string>
+    <string name="name_cristian">Cristian Soto Cortés</string>
+    <string name="title_activity_play">PlayActivity</string>
+    <string name="name_settings">Nombre:</string>
+    <string name="help_settings">Select how many times can you ask for help:</string>
+    <string name="addfriend_settings">Add Friend:</string>
+    <string name="addfriendbutton_settings">Add Friend</string>
+    <string name="questionString">Question</string>
+    <string name="scoreString">Playing for</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="no_username_title">Empty name</string>
+    <string name="no_username">Seems like you haven\'t told your name. Please, introduce your name in preferences</string>
+    <string name="resetScores">Reset Local Scores</string>
+    <string name="audience">Audience Help</string>
+    <string name="call">Call Help</string>
+    <string name="fifty">Fifty Help</string>
+    <string name="winGame">Enhorabuena!</string>
+	<string name="winGame2">You won:</string>
+	<string name="endGame2">Score:</string>
+	<string name="noNameToast">There is no username stored in preferences. Tab Friends will not be displayed!</string>
+</resources>

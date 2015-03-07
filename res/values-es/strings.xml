@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QuizProject</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="hello_world">Hola mundo!</string>
+    <string name="play_button">boton jugar</string>
+    <string name="scores">Puntuaciones</string>
+    <string name="settings">Ajustes</string>
+    <string name="endGame">Fin del juego</string>
+    <string name="reset">Reiniciar</string>
+    <string name="addFriend">Añadir amigo</string>
+    <string name="help">Número de ayudas</string>
+    <string name="credits">Acerca de...</string>
+    <string name="authors">Autores:</string>
+    <string name="name_joan">Joan Pérez Guerrero</string>
+    <string name="name_cristian">Cristian Soto Cortés</string>
+    <string name="title_activity_play">PlayActivity</string>
+    <string name="name_settings">Nombre:</string>
+    <string name="help_settings">¿Cuantas ayudas quieres?</string>
+    <string name="addfriend_settings">Añadir amigo:</string>
+    <string name="addfriendbutton_settings">Añadir amigo</string>
+    <string name="questionString">Pregunta</string>
+    <string name="scoreString">Jugando por</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancelar</string>
+    <string name="no_username_title">Nombre vacio</string>
+    <string name="no_username">Parece que no has dicho tu nombre. Por favor, introduce tu nombre en ajustes</string>
+    <string name="resetScores">Reiniciar puntuaciones locales</string>
+    <string name="audience">Pregunta al público</string>
+    <string name="call">Llamada</string>
+    <string name="fifty">50/50</string>
+    <string name="winGame">Enhorabuena!</string>
+	<string name="winGame2">Has ganado:</string>
+	<string name="endGame2">Puntuación:</string>
+	
+
+</resources>

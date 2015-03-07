@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.upv.quizproject"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="19" />
+    
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.Light.NoTitleBar.Fullscreen" >
+        <activity
+            android:name="com.upv.quizproject.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.upv.quizproject.SettingsActivity"
+            android:label="@string/settings" >
+        </activity>
+        <activity
+            android:name="com.upv.quizproject.ScoresActivity"
+            android:label="@string/scores" >
+        </activity>
+        <activity
+            android:name="com.upv.quizproject.AboutActivity"
+            android:label="@string/credits" >
+        </activity>
+        <activity
+            android:name="com.upv.quizproject.PlayActivity"
+            android:label="@string/title_activity_play" >
+        </activity>
+        <activity
+            android:name="com.upv.quizproject.EndGameActivity"
+            android:label="@string/endGame" >
+        </activity>
+        <activity
+            android:name="com.upv.quizproject.WinGameActivity"
+            android:label="@string/winGame" >
+        </activity>
+    </application>
+
+</manifest>
